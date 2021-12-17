@@ -1,6 +1,9 @@
 body {
   background-color:#7CA982
 }
+h1 {
+  text-align: center;
+}
 ul{
   list-style-type: none;
     background-color: green;
@@ -14,7 +17,7 @@ ul{
   margin: 0;
 }
 li{
-  float: left;
+  float: center;
 }
 li {
   display: blocks;
@@ -23,7 +26,11 @@ li {
   padding: 1px 50px;
 }
 li a:hover {
-  background-color: antiquewhite;
-  color: black;
+  background-color: black;
+  color: white;
   font-family: "Times New Roman", Times, serif;
+}
+iframe{
+  border-color:white;
+  border-style:dashed;
 }
