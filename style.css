@@ -1,5 +1,6 @@
 body {
-  background-color:#7CA982
+  background-color:#7CA982;
+  color: white
 }
 h1 {
   text-align: center;
@@ -17,7 +18,7 @@ ul{
   margin: 0;
 }
 li{
-  float: center;
+  float: left;
 }
 li {
   display: blocks;
@@ -26,8 +27,8 @@ li {
   padding: 1px 50px;
 }
 li a:hover {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: blue;
   font-family: "Times New Roman", Times, serif;
 }
 iframe{
