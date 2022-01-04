@@ -2,12 +2,6 @@ body {
   background-color:#7CA982;
   color: white
 }
-h2 {
-  float: left;
-}
-h3 {
-  float: left;
-}
 ul{
   list-style-type: none;
     background-color: green;
