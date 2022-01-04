@@ -1,0 +1,38 @@
+body {
+  background-color:#7CA982;
+  color: white
+}
+h2 {
+  float: left;
+}
+ul{
+  list-style-type: none;
+    background-color: green;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  text-align: center;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin: 0;
+}
+li{
+  float: left;
+}
+li {
+  display: blocks;
+  color: white;
+  text-decoration: none;
+  padding: 1px 50px;
+}
+li a:hover {
+  background-color: white;
+  color: blue;
+  font-family: "Times New Roman", Times, serif;
+}
+iframe{
+  border-color:white;
+  border-style:dashed;
+  float:left;
+}
