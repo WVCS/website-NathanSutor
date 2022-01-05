@@ -43,6 +43,6 @@ li a:hover {
 iframe{
   border-color:white;
   border-style:dashed;
-  float:right;
+  float:left;
 }
 
